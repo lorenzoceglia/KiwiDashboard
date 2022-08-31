@@ -1,0 +1,30 @@
+
+
+.slotwrapper {
+    overflow: hidden;
+    display: inline-block;
+    height: 200px;
+    width: 750px!important;
+}
+.slotwrapper ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    position: relative;
+}
+.slotwrapper ul {
+    width: 900px;
+    height: 900px;
+    font-size: 200px;
+    line-height: 200px;
+    text-align: center;
+}
+.slotwrapper ul li img {
+    vertical-align: top;
+}
+
+
+    .slotwrapper ul {
+        width: 100%;
+    }
+
