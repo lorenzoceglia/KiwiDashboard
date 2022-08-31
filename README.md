@@ -16,8 +16,9 @@ You can expand these above simply following my directives
 - Api web hook with analytics and users methods
 
 ### Miscellaneous
-
 Some global variables that handle something globally are stored in /config/config.php
+
+You can use a Table method just like this `$this->users_table->METHOD_NAME`
 
 WebHook is callable on the method request in the file src/Controller/ApiController.php
 ## Installation
