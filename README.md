@@ -4,7 +4,7 @@
 
 A basic admin panel written with [PHP 8,1 ](https://www.php.net/releases/8.1/en.php) and [CakePHP 4.7.2](https://cakephp.org).
 
-Front end made with [JQuery 3.6.0](https://jquery.com/), [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/), [SB Admin 2](https://startbootstrap.com/theme/sb-admin-2) 
+Front-end made with [JQuery 3.6.0](https://jquery.com/), [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/), [SB Admin 2](https://startbootstrap.com/theme/sb-admin-2) 
 
 ### Features
 You can expand these above simply following my directives
